@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Main_Yellow">#fbc02d</color>
+    <color name="Main_Yellow_Dark">#f9a825</color>
+    <color name="Text_Gray">#e6e6e6</color>
+    <color name="textColorPrimary">#0f0f0f</color>
+    <color name="Main_Yellow_Background_light">#ffebba</color>
+    <color name="Main_Dark_Gray">#202020</color>
+    <color name="Main_Gray">#313131</color>
+    <color name="Main_Light_Gray">#5d5d5d</color>
+    <color name="Main_Very_Light_Gray">#747474</color>
+    <color name="divider_color">#35fbc02d</color>
+    <color name="Main_Very_Light_Gray_Transparent">#6e747474</color>
+</resources>

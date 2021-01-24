@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "204688364056",
+    "firebase_url": "https://mashappdatabase.firebaseio.com",
+    "project_id": "mashappdatabase",
+    "storage_bucket": "mashappdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204688364056:android:341c46f88081ab9d",
+        "android_client_info": {
+          "package_name": "rumpledcode.mashapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204688364056-hd0mde6v4npmfhuh64dcg8hsn80bcoen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rumpledcode.mashapp",
+            "certificate_hash": "dee8e10f75ddbfb58c6cb01d3f8c3b54b3ac1bbf"
+          }
+        },
+        {
+          "client_id": "204688364056-dj0hjg419tc4fupe0dnj127sdg2g0d35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxYC2-4koIq2klaAN92ALTwJ0KvyHyCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204688364056-dj0hjg419tc4fupe0dnj127sdg2g0d35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
